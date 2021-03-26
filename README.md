@@ -4,5 +4,5 @@ Intrusion Detection Systems (IDS) are the second layer of defence. It detects th
 
 Machine Learning is implemented for the Intrusion Detection system. The innovative idea for the project was to improve the training accuracy by reducing the overfitting and classifying it better. Along with that this project does not only tell that there is an intrusion but also tell the intrusion through different attacks and classify them into different classes.
 
-#### In summary, the results from this study can contribute towards in improving the networking security. 
+#### In summary, the results from this study can contribute towards improving the network security. 
 
